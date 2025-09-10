@@ -1,0 +1,2 @@
+# Hledslustodvar_spa_maelabord
+Mælaborð fyrir orkunotkunarspá á hraðhleðslustöðvum
