@@ -1,0 +1,17 @@
+Feature,Importance
+IsHoliday,4
+quarter,5
+month,18
+year,56
+rolling_mean_lag168_window_size672,119
+lag48,144
+lag24,156
+days_from_holiday,158
+lag168,192
+is_available,206
+dayofweek,224
+seasonal_rolling_mean_lag24_season_length24_window_size26_min_samples5,249
+days_to_holiday,281
+dayofyear,314
+hour,319
+Talning_hourly,555
